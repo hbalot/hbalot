@@ -17,12 +17,11 @@
 ## :man_technologist: Experience:
 
 ### My achievements so far:
-- Developed an AI-powered research and co-authoring platform for knowledge workers.
-- Responsible for building the entire backend from the ground up, leading a team of developers from the conception of the project.
-- Trained ML models for various tasks and managed a developer team.
+- Developed an AI-powered research and co-authoring platform for knowledge workers. Responsible for building the entire backend for the multi million dollar company from the ground up.
+- Trained ML models for various tasks in vision, text classifications and fine tuning LLMs.
 - Developed algorithmic trading strategies for stocks and cryptocurrency that affected thousands of users.
-- Used Python for creating scripts and automation tasks and built web applications using Node.js.
-- Created and deployed RESTful APIs using Flask and Node.js.
+- Creating scripts and automation tasks and built web applications.
+- Worked on multiple cloud environments and with various languages.
 
 ### Internship
 - Developed an Android mobile application, a dashboard, and an API from scratch and successfully implemented them.

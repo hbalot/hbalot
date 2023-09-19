@@ -25,8 +25,3 @@
 - Developed an Android mobile application.
 
 👉 That's a glimpse of my technical journey so far! I am always excited to explore more and learn new things in the field of technology. If you have any queries or want to collaborate, feel free to reach out to me. 
-
-<details>
-<summary>:sparkles:</summary>
-This is a special repository because its `README.md` appears on my GitHub profile.
-</details>

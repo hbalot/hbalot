@@ -22,10 +22,7 @@
 - Developed algorithmic trading strategies for stocks and cryptocurrency that affected thousands of users.
 - Creating scripts and automation tasks and built web applications.
 - Worked on multiple cloud environments and with various languages.
-
-### Internship
-- Developed an Android mobile application, a dashboard, and an API from scratch and successfully implemented them.
-- Managed backend running on AWS.
+- Developed an Android mobile application.
 
 👉 That's a glimpse of my technical journey so far! I am always excited to explore more and learn new things in the field of technology. If you have any queries or want to collaborate, feel free to reach out to me. 
 
